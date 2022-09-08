@@ -1,1 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T08:13:38.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" version="17.3.0" etag="KyWlYYPS793DiFDyNSvK" type="github"><diagram id="sTb8wcjgerz8ZjK2yib7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-08T08:32:15.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="tj72PHreJ1QPQD3h4Jct" version="17.3.0" type="github">
+  <diagram id="sTb8wcjgerz8ZjK2yib7" name="Page-1">
+    <mxGraphModel dx="4268" dy="1343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-AKByJtzE0unUTjNRRzV-1" value="&lt;font style=&quot;font-size: 22px&quot;&gt;User interface&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="-414" y="318" width="1526" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="-AKByJtzE0unUTjNRRzV-4" target="-AKByJtzE0unUTjNRRzV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-4" value="" style="shape=actor;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="246" y="200" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="-AKByJtzE0unUTjNRRzV-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349.2000732421875" y="319.3999938964844" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-5" value="" style="shape=actor;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="329" y="198" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="-AKByJtzE0unUTjNRRzV-6" target="-AKByJtzE0unUTjNRRzV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-6" value="" style="shape=actor;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="418" y="200" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="-AKByJtzE0unUTjNRRzV-10" target="-AKByJtzE0unUTjNRRzV-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-10" value="User microservice" style="swimlane;sketch=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-415" y="485" width="297" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-17" value="User information" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="-AKByJtzE0unUTjNRRzV-10">
+          <mxGeometry x="33" y="45" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-18" value="roles and permissions" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="-AKByJtzE0unUTjNRRzV-10">
+          <mxGeometry x="33" y="117" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-12" value="Location microservice" style="swimlane;sketch=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="485" width="281" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-15" value="Country, province, city" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="-AKByJtzE0unUTjNRRzV-12">
+          <mxGeometry x="26.5" y="47" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-16" value="Location base services" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="-AKByJtzE0unUTjNRRzV-12">
+          <mxGeometry x="26.5" y="115" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="-AKByJtzE0unUTjNRRzV-19" target="-AKByJtzE0unUTjNRRzV-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-19" value="Building microservice" style="swimlane;sketch=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="232" y="485" width="281" height="304" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-20" value="Results" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="-AKByJtzE0unUTjNRRzV-19">
+          <mxGeometry x="26.5" y="47" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-21" value="Buildings" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="-AKByJtzE0unUTjNRRzV-19">
+          <mxGeometry x="26.5" y="115" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-38" value="Celery service&lt;br&gt;async analysis" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="-AKByJtzE0unUTjNRRzV-19">
+          <mxGeometry x="26.5" y="188" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-22" value="Calculator microservice" style="swimlane;sketch=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="538" y="488" width="281" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-23" value="Calculation services" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="-AKByJtzE0unUTjNRRzV-22">
+          <mxGeometry x="26.5" y="47" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-24" value="Probability services" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="-AKByJtzE0unUTjNRRzV-22">
+          <mxGeometry x="26.5" y="115" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-25" value="Website microservice" style="swimlane;sketch=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="845" y="488" width="281" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-26" value="Article services" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="-AKByJtzE0unUTjNRRzV-25">
+          <mxGeometry x="26.5" y="47" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-37" value="Aggregator services" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="-AKByJtzE0unUTjNRRzV-25">
+          <mxGeometry x="26.5" y="117" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-28" value="Notification microservice" style="swimlane;sketch=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="232" y="1153" width="281" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-29" value="Email services" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="-AKByJtzE0unUTjNRRzV-28">
+          <mxGeometry x="26.5" y="47" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-30" value="Push notification" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="-AKByJtzE0unUTjNRRzV-28">
+          <mxGeometry x="24" y="119" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-31" value="SMS services" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="-AKByJtzE0unUTjNRRzV-28">
+          <mxGeometry x="24" y="196" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-32" value="Websocket services" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="-AKByJtzE0unUTjNRRzV-28">
+          <mxGeometry x="24" y="273" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="-AKByJtzE0unUTjNRRzV-33" target="-AKByJtzE0unUTjNRRzV-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-AKByJtzE0unUTjNRRzV-33" value="Event bus" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-401.5" y="990" width="1548" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
